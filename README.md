@@ -1,0 +1,1 @@
+# deploy no site no netlify https://gama-joao-spa.netlify.app/
